@@ -13,3 +13,8 @@ Vad du bygger spelar inte så stor roll, så länge det används korrekt och "ma
 Lägg till två länkar här när du är klar. Länka till:
 - Din Github Pages sida
 - Din kod på Github
+
+# Sample images of the finished page
+
+![Example1](https://user-images.githubusercontent.com/70634183/132073887-801f0bb8-627f-44f6-8058-ea8a38153ba9.jpg)
+![Example2](https://user-images.githubusercontent.com/70634183/132073879-e002a317-d706-4dd5-8e04-14a813882c70.jpg)
